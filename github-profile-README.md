@@ -77,7 +77,7 @@ When I'm not in an IFS stack trace, I've been known to:
 | Platform | Link |
 |---|---|
 | 🌐 Blog | [theifsdebugger.com](https://theifsdebugger.com) |
-| 💼 LinkedIn | [linkedin.com/in/inzamam](https://linkedin.com/in/inzamam) |
+| 💼 LinkedIn | [linkedin.com/in/inzamam](https://linkedin.com/in/inzamam-ghazzali) |
 | 🐦 X / Twitter | [@InzamamYaqub](https://twitter.com/InzamamYaqub) |
 | ☕ Ko-fi | [ko-fi.com/inzamam](https://ko-fi.com/inzamam) |
 | 🌍 Portfolio | [inzamam93.github.io/portfolio](https://inzamam93.github.io/portfolio) |
