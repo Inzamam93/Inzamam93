@@ -29,13 +29,6 @@ None shall pass a poorly indexed custom table on his watch.
 
 ### 🔧 What I Work With
 
-```sql
-SELECT skill, proficiency
-FROM   inzamam_skills
-WHERE  domain = 'IFS ERP'
-ORDER  BY proficiency DESC;
-```
-
 | Skill | Level |
 |---|---|
 | IFS Customisations | ████████████ Expert |
