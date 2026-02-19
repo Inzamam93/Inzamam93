@@ -10,7 +10,7 @@
 -->
 
 ```
-Hear ye, traveller. You stand before the GitHub of
+Greeings, fellow coder. You stand before the GitHub of
 
   INZAMAM GHAZZALI
   Vanquisher of Stack Traces
