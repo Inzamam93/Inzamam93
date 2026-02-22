@@ -13,8 +13,8 @@
 Greeings, fellow coder. You stand before the GitHub of
 
   INZAMAM GHAZZALI
-  Vanquisher of Stack Traces
-  Tamer of Unruly PL/SQL
+  Vanquisher of bugs
+  Tamer of unruly performance issues 
   Debugger of Things Most Men Fear to Open
 
 6 years hath he walked the cursed halls of IFS Applications.
@@ -48,27 +48,7 @@ None shall pass a poorly indexed custom table on his watch.
 - **IFS tools & plugins** — open source utilities for the IFS developer community
 - **The IFS Debugger** — technical blog at [theifsdebugger.com](https://theifsdebugger.com)
 - **IFS code snippets & templates** — reusable patterns for common IFS development tasks
-
----
-
-### 📝 Latest from The IFS Debugger
-
-<!-- Update these manually as you publish new articles -->
-- 🔵 [Understanding IFS Projection APIs: A Complete Developer Reference](https://theifsdebugger.com)
-- 🟢 [Setting Up a Local IFS App10 Dev Environment in 2025](https://theifsdebugger.com)
-- 🟡 [5 PL/SQL Performance Traps That Will Kill Your Batch Jobs](https://theifsdebugger.com)
-- 🔴 [IFS Connect Routing Rules: The Underdocumented Bits](https://theifsdebugger.com)
-
-→ **[Read all articles at theifsdebugger.com](https://theifsdebugger.com)**
-
----
-
-### 🎮 Other Interests
-
-When I'm not in an IFS stack trace, I've been known to:
-- Build 2D games in Unity (see [Strive](https://github.com/Inzamam93/Strive-SDGP-project) — a fitness RPG where your real-life step count powers your in-game character)
-- Tinker with reinforcement learning (forked OpenAI Gym for a reason)
-- Pretend I live in Middle Earth
+- **Game dev projects and plugins
 
 ---
 
@@ -97,7 +77,6 @@ You're probably here because you Googled something IFS-related and somehow ended
 ║  > The stuff that actually helps developers             ║
 ║  > doesn't exist anywhere else.                         ║
 ║  > So I write it.                                       ║
-║  > No paywall. No fluff. Just stack traces.             ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
